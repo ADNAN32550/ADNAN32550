@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdul Haseeb Khan</h1>
+<h1 align="center">Hi 👋, I'm ADNAN Adi</h1>
 <h3 align="center">A passionate frontend developer at SMIT</h3>
 <img align="right" alt="coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasoo786&label=Profile%20views&color=0e75b6&style=flat" alt="hasoo786" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ADNAN32550&label=Profile%20views&color=0e75b6&style=flat" alt="hasoo786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasoo786" alt="hasoo786" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasoo786" alt="ADNAN32550" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hasoo60" target="blank"><img src="https://img.shields.io/twitter/follow/hasoo60?logo=twitter&style=for-the-badge" alt="hasoo60" /></a> </p>
 
